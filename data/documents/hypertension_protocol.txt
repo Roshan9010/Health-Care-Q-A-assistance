@@ -1,0 +1,144 @@
+HYPERTENSION TREATMENT PROTOCOL
+
+Definition and Classification:
+- Normal: <120/80 mmHg
+- Elevated: 120-129/<80 mmHg
+- Stage 1 HTN: 130-139/80-89 mmHg
+- Stage 2 HTN: ≥140/90 mmHg
+- Hypertensive Crisis: >180/120 mmHg
+
+Initial Assessment:
+- Confirm diagnosis with multiple readings on separate occasions
+- Assess cardiovascular risk factors
+- Screen for secondary causes if indicated
+- Baseline labs: BUN, creatinine, glucose, lipids, electrolytes
+- ECG, urinalysis
+
+Lifestyle Modifications (First-line for all patients):
+- Weight reduction: Goal BMI 18.5-24.9 kg/m²
+- DASH diet: Rich in fruits, vegetables, low-fat dairy
+- Sodium restriction: <2.3g daily, ideally <1.5g
+- Alcohol limitation: ≤2 drinks/day men, ≤1 drink/day women
+- Regular aerobic exercise: 90-150 minutes/week
+- Smoking cessation
+
+Pharmacological Treatment:
+
+First-Line Agents:
+1. ACE Inhibitors:
+   - Lisinopril: 10mg daily, max 40mg daily
+   - Enalapril: 5mg BID, max 20mg BID
+   - Monitor: Cough (10%), hyperkalemia, angioedema (rare)
+
+2. ARBs (if ACE inhibitor not tolerated):
+   - Losartan: 50mg daily, max 100mg daily
+   - Valsartan: 80mg daily, max 320mg daily
+   - Monitor: Hyperkalemia, less cough than ACE inhibitors
+
+3. Calcium Channel Blockers:
+   - Amlodipine: 2.5-5mg daily, max 10mg daily
+   - Nifedipine XL: 30mg daily, max 90mg daily
+   - Monitor: Peripheral edema, gingival hyperplasia
+
+4. Thiazide Diuretics:
+   - Hydrochlorothiazide: 12.5-25mg daily
+   - Chlorthalidone: 12.5-25mg daily (preferred)
+   - Monitor: Hypokalemia, hyperuricemia, hyperglycemia
+
+Treatment Algorithms:
+
+Stage 1 Hypertension (130-139/80-89):
+- High CV risk: Start single agent
+- Low-moderate CV risk: Lifestyle modifications x 3 months
+- If goal not achieved: Add medication
+
+Stage 2 Hypertension (≥140/90):
+- Start with 2 agents from different classes
+- Preferred combinations:
+  * ACE inhibitor + thiazide diuretic
+  * ARB + calcium channel blocker
+  * ACE inhibitor + calcium channel blocker
+
+Target Blood Pressures:
+- General population: <130/80 mmHg
+- Age ≥65 years: <130/80 mmHg (if tolerated)
+- Diabetes: <130/80 mmHg
+- CKD: <130/80 mmHg
+
+Combination Therapy:
+If single agent insufficient after 4-6 weeks:
+- Add second agent from different class
+- Consider fixed-dose combinations for adherence
+- Avoid ACE inhibitor + ARB combination
+
+Third-line agents:
+- Spironolactone: 25mg daily (monitor K+, creatinine)
+- Beta-blockers: Metoprolol 50mg BID, max 200mg BID
+- Alpha-blockers: Doxazosin 1mg daily, max 16mg daily
+
+Resistant Hypertension:
+Definition: BP >130/80 on 3 antihypertensive agents including diuretic
+Evaluation:
+- Confirm medication adherence
+- Check for secondary causes
+- 24-hour ambulatory BP monitoring
+- Consider referral to hypertension specialist
+
+Special Populations:
+
+Pregnancy:
+- First-line: Methyldopa 250mg BID-TID
+- Second-line: Labetalol 100mg BID
+- Avoid: ACE inhibitors, ARBs (teratogenic)
+- Target: <140/90 mmHg
+
+Heart Failure:
+- Preferred: ACE inhibitor + beta-blocker + diuretic
+- ARB if ACE inhibitor not tolerated
+- Avoid: Non-dihydropyridine calcium blockers
+
+Coronary Artery Disease:
+- Preferred: Beta-blocker + ACE inhibitor
+- Add calcium channel blocker if needed
+- Target: <130/80 mmHg
+
+Chronic Kidney Disease:
+- Preferred: ACE inhibitor or ARB
+- Monitor creatinine (acceptable increase <30%)
+- Avoid potassium-sparing diuretics if K+ >5.0
+
+Diabetes:
+- Preferred: ACE inhibitor or ARB
+- Add thiazide diuretic or calcium channel blocker
+- Target: <130/80 mmHg
+
+Monitoring:
+- Follow-up in 1 month after initiation/dose change
+- Once stable: Every 3-6 months
+- Home BP monitoring encouraged
+- Annual labs: Basic metabolic panel
+
+Drug Interactions:
+- NSAIDs: Reduce effectiveness of all antihypertensives
+- Lithium: Thiazides and ACE inhibitors increase levels
+- Potassium supplements: Monitor with ACE inhibitors/ARBs
+
+Side Effects Management:
+- ACE inhibitor cough: Switch to ARB
+- Ankle edema (CCB): Add ACE inhibitor or reduce dose
+- Fatigue (beta-blocker): Reduce dose or change agent
+- Hypokalemia (diuretic): Add potassium or K+-sparing diuretic
+
+Hypertensive Emergency:
+- Immediate treatment if end-organ damage
+- Goal: Reduce BP by 10-20% in first hour
+- Agents: Nicardipine IV, labetalol IV, esmolol IV
+- Avoid: Sublingual nifedipine (precipitous drop)
+
+Follow-up Schedule:
+- Initial visit: Confirm diagnosis, start treatment
+- 1 month: Assess response, adjust therapy
+- 3 months: Check labs, assess adherence
+- Every 6 months: Ongoing monitoring if stable
+
+This protocol should be individualized based on patient comorbidities and response to therapy.

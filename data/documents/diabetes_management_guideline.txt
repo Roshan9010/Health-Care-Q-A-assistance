@@ -1,0 +1,112 @@
+DIABETES MANAGEMENT CLINICAL GUIDELINE
+
+Overview:
+This guideline provides evidence-based recommendations for the management of Type 2 Diabetes Mellitus in adult patients.
+
+Diagnosis Criteria:
+- Fasting plasma glucose ≥126 mg/dL (7.0 mmol/L)
+- 2-hour plasma glucose ≥200 mg/dL (11.1 mmol/L) during OGTT
+- HbA1c ≥6.5% (48 mmol/mol)
+- Random plasma glucose ≥200 mg/dL with symptoms
+
+Initial Treatment Approach:
+
+First-Line Therapy:
+- Metformin 500-850mg twice daily (BID) with meals
+- Start with 500mg BID, increase gradually to minimize GI side effects
+- Maximum dose: 2000mg daily
+- Contraindications: eGFR <30 mL/min/1.73m², acute kidney injury
+
+Lifestyle Modifications:
+- Weight reduction: 5-10% of body weight if overweight
+- Regular physical activity: 150 minutes/week moderate intensity
+- Mediterranean or DASH diet pattern recommended
+- Smoking cessation counseling
+
+Second-Line Therapy Options:
+
+If HbA1c remains >7% after 3 months of metformin:
+
+1. SGLT2 Inhibitors (if eGFR >30):
+   - Empagliflozin 10mg daily, may increase to 25mg
+   - Canagliflozin 100mg daily, may increase to 300mg
+   - Monitor for genital mycotic infections, UTIs
+
+2. GLP-1 Receptor Agonists:
+   - Liraglutide: Start 0.6mg daily x 1 week, then 1.2mg daily
+   - Semaglutide: 0.25mg weekly x 4 weeks, then 0.5mg weekly
+   - Check for personal/family history of medullary thyroid cancer
+
+3. DPP-4 Inhibitors:
+   - Sitagliptin 100mg daily (50mg if eGFR 30-50)
+   - Linagliptin 5mg daily (no dose adjustment needed)
+
+4. Sulfonylureas:
+   - Glipizide 5mg daily initially, max 20mg daily
+   - Monitor for hypoglycemia, especially in elderly
+
+Insulin Therapy:
+
+Indications for insulin:
+- HbA1c >9% at diagnosis with symptoms
+- Failure to achieve target with multiple oral agents
+- Contraindications to other medications
+
+Basal Insulin Protocol:
+- Start with 10 units daily or 0.1-0.2 units/kg
+- Adjust by 2-4 units every 3-4 days based on fasting glucose
+- Target fasting glucose: 80-130 mg/dL
+
+Monitoring:
+- HbA1c every 3 months until stable, then every 6 months
+- Annual eye exam, foot exam, nephropathy screening
+- Blood pressure target: <130/80 mmHg
+- LDL cholesterol target: <100 mg/dL (or <70 if CVD)
+
+Hypoglycemia Management:
+- Mild (glucose 54-70 mg/dL): 15g carbohydrates
+- Severe (glucose <54 mg/dL): 20g carbohydrates
+- Recheck in 15 minutes, repeat if needed
+
+Special Populations:
+
+Elderly Patients (>65 years):
+- Less stringent HbA1c targets (7.5-8.5%)
+- Avoid sulfonylureas if possible due to hypoglycemia risk
+- Consider functional status and comorbidities
+
+Pregnancy:
+- Target fasting glucose: 70-95 mg/dL
+- Target 1-hour postprandial: <140 mg/dL
+- Target 2-hour postprandial: <120 mg/dL
+- Insulin preferred over oral agents
+
+Chronic Kidney Disease:
+- Metformin contraindicated if eGFR <30
+- Adjust medication doses based on kidney function
+- Monitor for lactic acidosis
+
+Drug Interactions:
+- Metformin + Contrast: Hold 48 hours before/after contrast
+- Warfarin + Sulfonylureas: Monitor INR closely
+- Beta-blockers may mask hypoglycemia symptoms
+
+Side Effects to Monitor:
+- Metformin: Lactic acidosis (rare), GI upset, B12 deficiency
+- SGLT2 inhibitors: UTIs, genital infections, DKA
+- GLP-1 agonists: Nausea, pancreatitis (rare)
+- Insulin: Hypoglycemia, weight gain
+
+Emergency Situations:
+- DKA: pH <7.3, glucose >250 mg/dL, ketones present
+- HHS: Glucose >600 mg/dL, severe dehydration, altered mental status
+- Severe hypoglycemia: Glucagon 1mg IM/SC if conscious level impaired
+
+Quality Metrics:
+- HbA1c <7% for most adults
+- Blood pressure <130/80 mmHg
+- LDL cholesterol <100 mg/dL
+- Annual eye and foot exams completed
+- Nephropathy screening annually
+
+This guideline should be used in conjunction with clinical judgment and individualized patient care.

@@ -1,0 +1,214 @@
+MEDICATION ADMINISTRATION PROTOCOL
+
+Hospital: General Medical Center
+Department: Internal Medicine
+Effective Date: January 2024
+Review Date: January 2025
+
+PURPOSE:
+This protocol establishes standardized procedures for safe medication administration in the hospital setting to minimize medication errors and ensure patient safety.
+
+SCOPE:
+This protocol applies to all licensed healthcare professionals administering medications in the hospital, including:
+- Registered Nurses (RN)
+- Licensed Practical Nurses (LPN)
+- Physicians
+- Nurse Practitioners
+- Physician Assistants
+
+FIVE RIGHTS OF MEDICATION ADMINISTRATION:
+
+1. Right Patient
+   - Verify patient identity using two identifiers
+   - Check patient wristband and ask patient to state name and date of birth
+   - Match identifiers with medication administration record (MAR)
+
+2. Right Medication
+   - Verify medication name, strength, and formulation
+   - Check for look-alike, sound-alike medications
+   - Confirm medication order in electronic health record
+
+3. Right Dose
+   - Calculate dose based on patient weight when applicable
+   - Use standardized concentration when possible
+   - Double-check high-alert medication calculations
+
+4. Right Route
+   - Verify administration route (PO, IV, IM, SC, topical)
+   - Ensure route is appropriate for medication and patient condition
+   - Check for contraindications to specific routes
+
+5. Right Time
+   - Administer within 30 minutes of scheduled time
+   - Document actual administration time
+   - Consider drug interactions and meal timing
+
+HIGH-ALERT MEDICATIONS:
+
+The following medications require special precautions:
+
+Insulin:
+- Dosage: Variable based on blood glucose and sliding scale
+- Administration: SC injection, rotate sites
+- Monitoring: Check blood glucose before and after administration
+- Storage: Refrigerate unopened vials, room temperature for 28 days once opened
+
+Warfarin:
+- Dosage: Typically 2.5-10mg daily, adjust based on INR
+- Administration: PO, same time daily
+- Monitoring: INR every 2-3 days initially, then weekly to monthly
+- Interactions: Avoid with aspirin, NSAIDs without physician approval
+
+Heparin:
+- Dosage: Weight-based protocol (80 units/kg bolus, then 18 units/kg/hour)
+- Administration: IV continuous infusion via pump
+- Monitoring: aPTT every 6 hours, adjust per protocol
+- Antidote: Protamine sulfate for reversal
+
+Morphine:
+- Dosage: 2-10mg IV q2-4h PRN pain, 15-30mg PO q4h
+- Administration: Slow IV push over 2-5 minutes
+- Monitoring: Respiratory rate, pain score, sedation level
+- Contraindications: Respiratory depression, severe asthma
+
+Digoxin:
+- Dosage: 0.125-0.25mg daily, adjust for renal function
+- Administration: PO or IV, same time daily
+- Monitoring: Serum level (therapeutic range 1.0-2.0 ng/mL), heart rate
+- Toxicity signs: Nausea, visual changes, arrhythmias
+
+MEDICATION RECONCILIATION:
+
+Upon Admission:
+1. Obtain complete medication history from patient/family
+2. Verify home medications with pharmacy records
+3. Document allergies and adverse drug reactions
+4. Identify medication discrepancies
+
+During Hospitalization:
+1. Review medications daily on rounds
+2. Assess for new allergies or adverse reactions
+3. Monitor for drug interactions
+4. Adjust for renal/hepatic function changes
+
+At Discharge:
+1. Provide written medication list
+2. Counsel on new medications and changes
+3. Schedule follow-up for medication monitoring
+4. Provide emergency contact information
+
+SPECIAL POPULATIONS:
+
+Pediatric Patients:
+- Calculate doses based on weight (mg/kg) or body surface area
+- Use oral syringes for liquid medications
+- Consider taste preferences and formulation
+- Involve parents/caregivers in education
+
+Geriatric Patients:
+- Start with lower doses ("start low, go slow")
+- Monitor for polypharmacy interactions
+- Assess for cognitive impairment affecting compliance
+- Consider renal/hepatic function decline
+
+Pregnant Patients:
+- Verify pregnancy category for all medications
+- Avoid teratogenic medications
+- Consider breastfeeding implications
+- Consult obstetrics for complex cases
+
+ADVERSE DRUG REACTION REPORTING:
+
+Immediate Actions:
+1. Discontinue suspected medication
+2. Assess patient condition and provide supportive care
+3. Notify physician immediately
+4. Document incident in medical record
+
+Documentation Requirements:
+- Date and time of reaction
+- Medication name, dose, route, and timing
+- Description of reaction and severity
+- Treatment provided
+- Patient outcome
+
+Reporting:
+- Complete incident report within 24 hours
+- Report to hospital pharmacy
+- Submit to FDA MedWatch for serious reactions
+- Update patient allergy profile
+
+PAIN MANAGEMENT PROTOCOLS:
+
+Pain Assessment:
+- Use standardized pain scale (0-10 numeric scale)
+- Assess pain location, quality, duration, aggravating factors
+- Consider non-verbal pain indicators in confused patients
+- Document pain scores with vital signs
+
+Opioid Administration:
+- Assess respiratory rate before each dose
+- Hold medication if respiratory rate <12/minute
+- Monitor sedation level using Richmond scale
+- Ensure naloxone (Narcan) readily available
+
+Non-Pharmacological Interventions:
+- Position changes and comfort measures
+- Heat/cold therapy as appropriate
+- Distraction techniques
+- Relaxation and breathing exercises
+
+CONTROLLED SUBSTANCE MANAGEMENT:
+
+Storage Requirements:
+- Secure in locked cabinet or automated dispensing system
+- Limit access to authorized personnel only
+- Maintain chain of custody documentation
+- Count controlled substances at shift change
+
+Waste Documentation:
+- Two licensed personnel must witness waste
+- Document reason for waste (patient refused, order changed)
+- Complete waste record with signatures
+- Return unused portions to pharmacy
+
+EMERGENCY MEDICATIONS:
+
+Code Blue Medications:
+- Epinephrine 1mg IV/IO q3-5 minutes
+- Atropine 0.5mg IV q3-5 minutes (max 3mg)
+- Amiodarone 300mg IV bolus, then 150mg
+- Lidocaine 1-1.5mg/kg IV bolus
+
+Anaphylaxis Protocol:
+- Epinephrine 0.3-0.5mg IM (EpiPen)
+- Diphenhydramine 25-50mg IV/IM
+- Methylprednisolone 125mg IV
+- Albuterol nebulizer if bronchospasm
+
+QUALITY ASSURANCE:
+
+Medication Error Prevention:
+- Use "tall man" lettering for look-alike drugs
+- Implement read-back verification for verbal orders
+- Avoid dangerous abbreviations
+- Use leading zeros (0.5mg not .5mg)
+
+Staff Education:
+- Annual competency validation
+- New medication in-services
+- High-alert medication training
+- Simulation exercises for emergencies
+
+Monitoring and Evaluation:
+- Monthly medication error analysis
+- Trending of near-miss events
+- Staff feedback and suggestions
+- Continuous process improvement
+
+This protocol must be reviewed annually and updated as needed based on evidence-based practice, regulatory requirements, and organizational policies.
+
+For questions or clarifications, contact:
+- Pharmacy Department: Extension 2500
+- Nursing Supervisor: Extension 3000
+- Risk Management: Extension 4000
