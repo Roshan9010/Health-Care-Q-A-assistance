@@ -1,4 +1,6 @@
-# Healthcare Document Q&A Assistant
+# Health-Care-Q-A-assistance
+>>>>>>> c07994cee63ac795e854ddc00f0f1f7de33bfefd
+# Health-Care-Q-A-assistance
 
 A powerful RAG (Retrieval Augmented Generation) system built with LangChain for healthcare professionals to query medical guidelines, hospital policies, and drug information.
 
@@ -63,3 +65,6 @@ Healthcare/
 ## Contributing
 
 This project is designed for healthcare professionals and AI developers interested in medical document processing and retrieval systems.
+=======
+# Health-Care-Q-A-assistance
+>>>>>>> c07994cee63ac795e854ddc00f0f1f7de33bfefd
